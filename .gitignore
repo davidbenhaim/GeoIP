@@ -30,7 +30,7 @@ database/*.zip
 fabfile.*
 
 # binary data file
-*.dat
+# *.dat
 
 # no php file
 *.php
@@ -57,7 +57,7 @@ build/*
 npm-*.log
 .npmignore
 
-# noe modules
+# node modules
 node_modules/*
 
 # sublime files
